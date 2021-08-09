@@ -2,8 +2,7 @@
 
 https://gustavoreisss.github.io/Calculadora-Resultado-Dinamico/Calculadora.html
 
-![image-20210809193505614](C:\Users\xfeni\AppData\Roaming\Typora\typora-user-images\image-20210809193505614.png)
+![Capture](C:\Users\xfeni\Desktop\Capture.PNG)
 
+![Capture2](C:\Users\xfeni\Desktop\Capture2.PNG)
 
-
-![image-20210809193550623](C:\Users\xfeni\AppData\Roaming\Typora\typora-user-images\image-20210809193550623.png)
